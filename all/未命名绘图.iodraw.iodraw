@@ -91,13 +91,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-4" target="tGWRbTudhHGllsHxGnOG-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="668" y="846" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.32;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-5" target="tGWRbTudhHGllsHxGnOG-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
