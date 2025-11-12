@@ -7,6 +7,9 @@
         <mxCell id="tGWRbTudhHGllsHxGnOG-8" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="211" y="1236" width="56" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-29" target="tGWRbTudhHGllsHxGnOG-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-29" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1290" width="56" height="34" as="geometry" />
         </mxCell>
@@ -52,13 +55,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="228" y="1922" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-42" value="输入：数据源结构信息及映射规则" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.6;exitY=-0.01;entryX=0.79;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-30" target="tGWRbTudhHGllsHxGnOG-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="348" y="1369" />
             </Array>
           </mxGeometry>
         </mxCell>
