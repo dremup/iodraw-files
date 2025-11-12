@@ -14,7 +14,7 @@
           <mxGeometry x="36" y="1401" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-49" value="配置数据转换与校验逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1500" width="240" height="49" as="geometry" />
+          <mxGeometry x="19.5" y="1510" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-50" value="设置批量处理参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44" y="1599" width="191" height="49" as="geometry" />
