@@ -7,7 +7,7 @@
         <mxCell id="tGWRbTudhHGllsHxGnOG-0" value="系统资源层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="970" width="561" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="711" y="490" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-2" value="接收连接信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
