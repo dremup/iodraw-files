@@ -60,10 +60,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-59" value="输入：用户配置的规则（清洗、过滤、验证、批量参数）" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0.75;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-47" target="tGWRbTudhHGllsHxGnOG-46">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0053" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="1248" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-60" value="输出：配置完成的数据处理规则与参数" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.79;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-51" target="tGWRbTudhHGllsHxGnOG-52">
