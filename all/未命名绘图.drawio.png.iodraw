@@ -13,6 +13,15 @@
         <mxCell id="tGWRbTudhHGllsHxGnOG-29" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1290" width="56" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tGWRbTudhHGllsHxGnOG-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302" y="1410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="1390" />
+              <mxPoint x="302" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-30" value="加载数据源结构信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="184" y="1415" width="207" height="49" as="geometry" />
         </mxCell>
