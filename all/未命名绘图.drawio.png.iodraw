@@ -4,6 +4,75 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="tGWRbTudhHGllsHxGnOG-46" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="112" y="1160" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-47" value="接收用户配置的规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="1302" width="207" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-48" value="解析清洗与过滤规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="1401" width="207" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-49" value="配置数据转换与校验逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1500" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-50" value="设置批量处理参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="44" y="1599" width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-51" value="生成数据处理配置结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28" y="1698" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-52" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="112" y="1838" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.41;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-46" target="tGWRbTudhHGllsHxGnOG-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-47" target="tGWRbTudhHGllsHxGnOG-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-48" target="tGWRbTudhHGllsHxGnOG-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-49" target="tGWRbTudhHGllsHxGnOG-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-50" target="tGWRbTudhHGllsHxGnOG-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.2;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-51" target="tGWRbTudhHGllsHxGnOG-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1792" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-59" value="输入：用户配置的规则（清洗、过滤、验证、批量参数）" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0.75;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-47" target="tGWRbTudhHGllsHxGnOG-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGWRbTudhHGllsHxGnOG-60" value="输出：配置完成的数据处理规则与参数" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.79;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-51" target="tGWRbTudhHGllsHxGnOG-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1792" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
