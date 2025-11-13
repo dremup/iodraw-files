@@ -47,10 +47,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-345" value="创建" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-334" target="tGWRbTudhHGllsHxGnOG-335">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-345" value="创建" style="curved=0;startArrow=none;endArrow=block;exitX=0.97;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-334" target="tGWRbTudhHGllsHxGnOG-335">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="583" y="265" />
+              <mxPoint x="481" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
