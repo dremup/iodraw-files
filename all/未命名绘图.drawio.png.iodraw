@@ -1,32 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1815" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1815" dy="-127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="tGWRbTudhHGllsHxGnOG-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.99;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="107" y="1082" />
-            </Array>
-            <mxPoint x="150.51020408163276" y="1037" as="sourcePoint" />
-            <mxPoint x="151.25" y="1127" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-150" value="输出：配置版本信息及变更记录" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="235" y="1082" />
-            </Array>
-            <mxPoint x="200" y="1040" as="sourcePoint" />
-            <mxPoint x="195.8900000000001" y="1127" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-151" value="敏感词与策略配置中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="1367" width="208" height="263" as="geometry" />
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-152" value="敏感信息过滤引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="433" y="1220" width="1251" height="422" as="geometry" />
+          <mxGeometry x="433" y="1240" width="1251" height="422" as="geometry" />
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-153" value="数据源输入" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1291" width="105" height="34" as="geometry" />
