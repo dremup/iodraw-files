@@ -61,14 +61,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-347" value="查询" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-334" target="tGWRbTudhHGllsHxGnOG-337">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-347" value="查询" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-334" target="tGWRbTudhHGllsHxGnOG-337">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="583" y="463" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-348" value="修改/删除" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-334" target="tGWRbTudhHGllsHxGnOG-338">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-348" value="修改/删除" style="curved=0;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-334" target="tGWRbTudhHGllsHxGnOG-338">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="583" y="562" />
