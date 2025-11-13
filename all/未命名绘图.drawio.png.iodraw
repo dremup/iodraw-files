@@ -35,7 +35,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-267" value="新增" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-260" target="tGWRbTudhHGllsHxGnOG-261">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-267" value="新增" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-260" target="tGWRbTudhHGllsHxGnOG-261">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="123" y="2176" />
@@ -57,7 +57,7 @@
         <mxCell id="tGWRbTudhHGllsHxGnOG-270" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-261" target="tGWRbTudhHGllsHxGnOG-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="2329" />
+              <mxPoint x="124" y="2329" />
             </Array>
           </mxGeometry>
         </mxCell>
