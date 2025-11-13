@@ -4,30 +4,22 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="tGWRbTudhHGllsHxGnOG-127" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="963" width="352" height="239" as="geometry" />
-        </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-130" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="128" y="55" width="93" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-138" value="生成配置版本及变更记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="988" width="240" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-139" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="128" y="1127" width="93" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.99;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-138" target="tGWRbTudhHGllsHxGnOG-139">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.99;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="107" y="1082" />
             </Array>
+            <mxPoint x="150.51020408163276" y="1037" as="sourcePoint" />
+            <mxPoint x="151.25" y="1127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-150" value="输出：配置版本信息及变更记录" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.59;exitY=0.99;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-138" target="tGWRbTudhHGllsHxGnOG-139">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-150" value="输出：配置版本信息及变更记录" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="235" y="1082" />
             </Array>
+            <mxPoint x="200" y="1040" as="sourcePoint" />
+            <mxPoint x="195.8900000000001" y="1127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGWRbTudhHGllsHxGnOG-151" value="敏感词与策略配置中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
