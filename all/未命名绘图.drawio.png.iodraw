@@ -200,7 +200,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGWRbTudhHGllsHxGnOG-257" value="验证" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=-0.01;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-224" target="tGWRbTudhHGllsHxGnOG-235">
+        <mxCell id="tGWRbTudhHGllsHxGnOG-257" value="验证" style="curved=0;startArrow=none;endArrow=block;exitX=0.6;exitY=-0.01;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tGWRbTudhHGllsHxGnOG-224" target="tGWRbTudhHGllsHxGnOG-235">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="999" y="1195" />
