@@ -16,6 +16,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-298" value="模板配置是否合法？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="285" y="341" width="201" height="201" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-299" target="70QY7zp4Tou9mdf60gn0-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-299" value="提示模板异常&#xa;要求重新选择或修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="616" width="207" height="78" as="geometry" />
         </mxCell>
@@ -80,7 +83,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-314" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-302" target="70QY7zp4Tou9mdf60gn0-303">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-314" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-302" target="70QY7zp4Tou9mdf60gn0-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="301" y="951" />
