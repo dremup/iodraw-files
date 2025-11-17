@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-599" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="102" y="480" width="93" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-600" value="接收原始数据批次与任务指令&#xa;(Prompt/任务类型)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="579" width="256" height="84" as="geometry" />
         </mxCell>
@@ -25,15 +22,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-605" value="保存智能标注结果至标注结果&#xa;库/训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1232" width="256" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-606" value="记录API调用指标&#xa;(Token用量/耗时/成功率)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1367" width="247" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-607" value="输出标注结果与API调用报告" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="48" y="1501" width="201" height="201" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-608" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-599" target="70QY7zp4Tou9mdf60gn0-600">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-608" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="70QY7zp4Tou9mdf60gn0-600">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="148.5" y="529" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-609" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-600" target="70QY7zp4Tou9mdf60gn0-601">
@@ -61,14 +56,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-614" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-605" target="70QY7zp4Tou9mdf60gn0-606">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-614" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-605">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="148.5" y="1367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-615" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-606" target="70QY7zp4Tou9mdf60gn0-607">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-615" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="70QY7zp4Tou9mdf60gn0-607">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="148.5" y="1451" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-616" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
