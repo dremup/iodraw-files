@@ -4,6 +4,84 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1046" value="5.1.5.12.4格式转换/ZHXX-ZNGJ-GN-ZYC-GL-SJJGSZH-GSZH" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="950" width="1039" height="983" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1047" value="5.1.5.12.4.1 功能描述: 多种数据格式之间的转换，包括CSV、JSON、XML等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="470" y="46" width="256" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1048" value="5.1.5.12.4.2 输入输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="488" y="205" width="218" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1049" value="表136格式转换输入输出表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="190" y="390" width="248" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1050" value="IN_FormatConvert: 格式转换" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="70" y="584" width="203" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1051" value="原始数据集样本: CSV、JSON、XML、COCO等格式数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="43" y="869" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1052" value="OUT_FormatConvert: 格式转换" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="499" y="576" width="219" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1053" value="转换后的数据集样本: 目标格式的数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="502" y="878" width="213" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1054" value="5.1.5.12.4.3 处理逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="488" y="390" width="218" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1055" value="5.1.5.12.4.4 异常与错误处理: 基于用户登录，并按照预设的程序进行数据格式和有效性校验，返回提交数据异常，返回错误提示信息。转换失败时提示检查源格式或目标格式。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="70QY7zp4Tou9mdf60gn0-1046">
+          <mxGeometry x="757" y="329" width="256" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1056" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1048" target="70QY7zp4Tou9mdf60gn0-1049">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="314" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1057" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1050" target="70QY7zp4Tou9mdf60gn0-1051">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1058" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1052" target="70QY7zp4Tou9mdf60gn0-1053">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1059" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1049" target="70QY7zp4Tou9mdf60gn0-1050">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172" y="538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1060" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1049" target="70QY7zp4Tou9mdf60gn0-1052">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1061" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1047" target="70QY7zp4Tou9mdf60gn0-1048">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1062" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1048" target="70QY7zp4Tou9mdf60gn0-1054">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1063" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="70QY7zp4Tou9mdf60gn0-1046" source="70QY7zp4Tou9mdf60gn0-1048" target="70QY7zp4Tou9mdf60gn0-1055">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="885" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
