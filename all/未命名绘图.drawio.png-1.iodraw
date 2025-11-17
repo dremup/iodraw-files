@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="uINIO94t125BwMDkYW2_">
-    <mxGraphModel dx="2074" dy="-24" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1815" dy="-161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="171" y="1180" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-456" value="接收用户导出请求&#xa;（任务范围/目标格式/文件类型）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="71" y="1264" width="256" height="84" as="geometry" />
+          <mxGeometry x="71" y="1270" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-457" value="读取已审核通过的标注数据&#xa;（原始数据 + 标注信息）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="1398" width="256" height="67" as="geometry" />
