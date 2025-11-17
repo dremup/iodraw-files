@@ -25,7 +25,7 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-605" value="保存智能标注结果至标注结果&#xa;库/训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1232" width="256" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-606" value="记录API调用指标&#xa;(Token用量/耗时/成功率/费用估算)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-606" value="记录API调用指标&#xa;(Token用量/耗时/成功率)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="1367" width="247" height="84" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-607" value="输出标注结果与API调用报告" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
