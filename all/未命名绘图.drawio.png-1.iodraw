@@ -4,57 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-891" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-892" value="接收异常数据&#xa;（格式/字段/缺失/类型）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="24" y="174" width="248" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-893" value="解析异常类型并定位错误来源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="291" width="256" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-894" value="生成错误描述&#xa;（字段名/位置/原因）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="36" y="407" width="224" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-895" value="生成修复建议&#xa;（格式纠正、字段补全等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="524" width="256" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-896" value="输出错误提示信息&#xa;供用户或系统处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="640" width="191" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-897" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="757" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-898" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-891" target="70QY7zp4Tou9mdf60gn0-892">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-899" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-892" target="70QY7zp4Tou9mdf60gn0-893">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-900" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-893" target="70QY7zp4Tou9mdf60gn0-894">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-901" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-894" target="70QY7zp4Tou9mdf60gn0-895">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-902" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-895" target="70QY7zp4Tou9mdf60gn0-896">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-903" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-896" target="70QY7zp4Tou9mdf60gn0-897">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
