@@ -48,14 +48,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1775" value="返回结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="561" y="1029" width="89" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1776" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.31;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1766" target="70QY7zp4Tou9mdf60gn0-1767">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="69" y="459" />
-              <mxPoint x="69" y="978" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1777" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1767" target="70QY7zp4Tou9mdf60gn0-1768">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
