@@ -25,6 +25,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2138" value="查询知识库并生成初稿" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="425" y="994" width="223" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2139" target="70QY7zp4Tou9mdf60gn0-2140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2139" value="多轮对话模型生成回复" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="152" y="994" width="223" height="49" as="geometry" />
         </mxCell>
@@ -67,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2153" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.66;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2141" target="70QY7zp4Tou9mdf60gn0-2142">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2153" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.66;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2141" target="70QY7zp4Tou9mdf60gn0-2142">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="1382" />
