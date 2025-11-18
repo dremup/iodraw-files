@@ -4,65 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1521" value="接收可见光舰船视频数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="26" y="630" width="240" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1522" value="视频格式与内容校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="729" width="207" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1523" value="视频预处理&#xa;抽帧 / 去噪 / 稳定化 / 增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="34" y="828" width="224" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1524" value="目标区域检测&#xa;YOLO / Faster R-CNN" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="962" width="211" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1525" value="舰船与战斗机类别识别&#xa;F16/F18/F35/伯克级/尼米兹级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1079" width="251" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1526" value="时序信息融合&#xa;跨帧跟踪、置信度融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="34" y="1213" width="223" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1527" value="生成识别结果&#xa;类别 + 位置框 + 置信度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="32" y="1330" width="227" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1528" value="输出识别分析结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1446" width="191" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1529" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1521" target="70QY7zp4Tou9mdf60gn0-1522">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1530" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1522" target="70QY7zp4Tou9mdf60gn0-1523">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1531" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1523" target="70QY7zp4Tou9mdf60gn0-1524">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1532" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1524" target="70QY7zp4Tou9mdf60gn0-1525">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1533" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1525" target="70QY7zp4Tou9mdf60gn0-1526">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1534" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1526" target="70QY7zp4Tou9mdf60gn0-1527">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1535" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1527" target="70QY7zp4Tou9mdf60gn0-1528">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
