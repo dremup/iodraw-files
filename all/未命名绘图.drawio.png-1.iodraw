@@ -7,6 +7,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2195" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="259" y="340" width="56" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2196" value="接收文书生成参数与模板&#xa;IN_DocumentGeneration" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="168" y="424" width="240" height="67" as="geometry" />
         </mxCell>
@@ -66,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2211" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2200" target="70QY7zp4Tou9mdf60gn0-2202">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2211" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2200" target="70QY7zp4Tou9mdf60gn0-2202">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="435" y="1077" />
