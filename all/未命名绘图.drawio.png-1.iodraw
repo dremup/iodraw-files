@@ -27,6 +27,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1954" value="处理结果有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="68" y="587" width="153" height="153" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1968" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1955" target="70QY7zp4Tou9mdf60gn0-1956">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1955" value="返回历史记录查询结果&#xa;OUT_HistoryStorage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="32" y="813" width="223" height="67" as="geometry" />
         </mxCell>
@@ -61,13 +64,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1962" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1954" target="70QY7zp4Tou9mdf60gn0-1955">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1963" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.14;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1955" target="70QY7zp4Tou9mdf60gn0-1956">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="144" y="904" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
