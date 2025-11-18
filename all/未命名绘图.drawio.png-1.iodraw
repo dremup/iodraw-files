@@ -33,6 +33,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2263" value="返回错误提示&#xa;检查输入数据或推演配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="1261" width="240" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2277" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2264" target="70QY7zp4Tou9mdf60gn0-2265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2264" value="生成作战方案列表&#xa;OUT_PlanGeneration" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="1261" width="210" height="67" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2271" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.73;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2262" target="70QY7zp4Tou9mdf60gn0-2263">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2271" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.73;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2262" target="70QY7zp4Tou9mdf60gn0-2263">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="257" y="1225" />
