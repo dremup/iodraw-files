@@ -7,6 +7,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2336" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="192" y="1090" width="56" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2337">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2337" value="接收历史数据与当前信息&#xa;IN_EventLogicDisplay" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="100" y="1174" width="240" height="67" as="geometry" />
         </mxCell>
@@ -55,14 +60,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="1810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2351" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0;entryX=0.18;entryY=0.99;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2342" target="70QY7zp4Tou9mdf60gn0-2337">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="84" y="1810" />
-              <mxPoint x="84" y="1266" />
             </Array>
           </mxGeometry>
         </mxCell>
