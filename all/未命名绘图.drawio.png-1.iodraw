@@ -28,6 +28,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2222" value="检索结果有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="322" y="797" width="153" height="153" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2223" target="70QY7zp4Tou9mdf60gn0-2218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2223" value="返回错误提示&#xa;检查关键词或案例库状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1022" width="240" height="67" as="geometry" />
         </mxCell>
@@ -62,24 +65,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2232" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.74;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2222" target="70QY7zp4Tou9mdf60gn0-2223">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2232" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.74;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2222" target="70QY7zp4Tou9mdf60gn0-2223">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="986" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2233" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.01;entryX=0.16;entryY=0.99;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2223" target="70QY7zp4Tou9mdf60gn0-2218">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="986" />
-              <mxPoint x="125" y="475" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2234" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2222" target="70QY7zp4Tou9mdf60gn0-2224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="420" y="970" />
               <mxPoint x="419" y="986" />
             </Array>
           </mxGeometry>
