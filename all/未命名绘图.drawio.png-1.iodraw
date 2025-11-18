@@ -77,10 +77,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1783" value="异常" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1771" target="70QY7zp4Tou9mdf60gn0-1773">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1783" value="异常" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1771" target="70QY7zp4Tou9mdf60gn0-1773">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="228" y="833" />
+              <mxPoint x="230" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
