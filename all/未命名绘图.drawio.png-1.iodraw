@@ -55,6 +55,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2171" value="操作是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="354" y="896" width="153" height="153" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2172" target="70QY7zp4Tou9mdf60gn0-2163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2172" value="返回错误提示&#xa;检查权限或操作参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1122" width="207" height="67" as="geometry" />
         </mxCell>
@@ -100,15 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=0;entryX=0.01;entryY=0.64;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2172" target="70QY7zp4Tou9mdf60gn0-2163">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="108" y="1085" />
-              <mxPoint x="108" y="539" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2186" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2171" target="70QY7zp4Tou9mdf60gn0-2173">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2186" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2171" target="70QY7zp4Tou9mdf60gn0-2173">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="1085" />
