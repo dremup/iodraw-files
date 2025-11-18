@@ -10,14 +10,8 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2217" value="接收检索条件&#xa;IN_LiteratureSearch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="178" y="284" width="203" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2218">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="411" y="426" />
-              <mxPoint x="411" y="470" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2218" target="70QY7zp4Tou9mdf60gn0-2219">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2218" value="解析作战需求与关键词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="168" y="401" width="223" height="49" as="geometry" />
