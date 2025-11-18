@@ -29,7 +29,12 @@
           <mxGeometry x="485" y="1106" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1666" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1654" target="70QY7zp4Tou9mdf60gn0-1646">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1230" />
+              <mxPoint x="720" y="707" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1654" value="返回结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="1213" width="89" height="34" as="geometry" />
@@ -90,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1663" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1650" target="70QY7zp4Tou9mdf60gn0-1653">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1663" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1650" target="70QY7zp4Tou9mdf60gn0-1653">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="547" y="1070" />
@@ -101,14 +106,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="547" y="1180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1665" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=1.01;entryY=0.7;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1654" target="70QY7zp4Tou9mdf60gn0-1646">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="653" y="1180" />
-              <mxPoint x="660" y="707" />
             </Array>
           </mxGeometry>
         </mxCell>
