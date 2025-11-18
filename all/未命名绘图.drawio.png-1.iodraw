@@ -19,6 +19,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2137" value="知识库中是否可回答?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="299" y="720" width="202" height="202" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2138" target="70QY7zp4Tou9mdf60gn0-2140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2138" value="查询知识库并生成初稿" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="425" y="994" width="223" height="49" as="geometry" />
         </mxCell>
@@ -56,13 +59,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="263" y="958" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.17;entryY=0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2139" target="70QY7zp4Tou9mdf60gn0-2140">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="263" y="1068" />
             </Array>
           </mxGeometry>
         </mxCell>
