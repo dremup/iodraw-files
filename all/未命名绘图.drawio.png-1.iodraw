@@ -83,7 +83,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1811" value="异常" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1799" target="70QY7zp4Tou9mdf60gn0-1801">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1811" value="异常" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1799" target="70QY7zp4Tou9mdf60gn0-1801">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="494" y="883" />
