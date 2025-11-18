@@ -4,6 +4,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1288" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="122" y="260" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1289" value="接收场景图像样本数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="38" y="344" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1290" value="图像预处理&#xa;光照校正 / 去噪 / 尺寸调整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="443" width="259" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1291" value="场景特征提取&#xa;（深度卷积特征/语义特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="560" width="248" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1292" value="场景分类推理&#xa;（如室外/室内、机场、道路等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="694" width="248" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1293" value="输出场景识别结果&#xa;类别 + 语义标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="54" y="828" width="191" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1294" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="122" y="945" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1295" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1288" target="70QY7zp4Tou9mdf60gn0-1289">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1296" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1289" target="70QY7zp4Tou9mdf60gn0-1290">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1297" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1290" target="70QY7zp4Tou9mdf60gn0-1291">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1298" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1291" target="70QY7zp4Tou9mdf60gn0-1292">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1299" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1292" target="70QY7zp4Tou9mdf60gn0-1293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1300" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1293" target="70QY7zp4Tou9mdf60gn0-1294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
