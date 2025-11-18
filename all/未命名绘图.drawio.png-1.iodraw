@@ -36,6 +36,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1859" value="返回错误提示&#xa;模板不存在/格式错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="496" y="928" width="215" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1878" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1860" target="70QY7zp4Tou9mdf60gn0-1861">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1860" value="输出删除结果数据&#xa;OUT_CustomTemplateDelete" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="806" y="920" width="257" height="84" as="geometry" />
         </mxCell>
@@ -92,13 +95,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="935" y="883" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1872" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1860" target="70QY7zp4Tou9mdf60gn0-1861">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="935" y="1029" />
             </Array>
           </mxGeometry>
         </mxCell>
