@@ -34,7 +34,7 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1679" value="返回结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="1144" width="89" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1680" value="输入数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1670" target="70QY7zp4Tou9mdf60gn0-1671">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1680" value="输入数据" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1670" target="70QY7zp4Tou9mdf60gn0-1671">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="119" y="541" />
