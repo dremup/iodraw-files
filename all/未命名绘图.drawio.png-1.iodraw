@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1645" value="&lt;h2 data-start=&quot;311&quot; data-end=&quot;341&quot;&gt;&lt;strong data-start=&quot;317&quot; data-end=&quot;341&quot;&gt;流程逻辑设计重点（完全对标你提供的图片）&lt;/strong&gt;&lt;/h2&gt;&#xa;&lt;ul data-start=&quot;342&quot; data-end=&quot;441&quot;&gt;&#xa;&lt;li data-start=&quot;342&quot; data-end=&quot;356&quot;&gt;&#xa;&lt;p data-start=&quot;344&quot; data-end=&quot;356&quot;&gt;❗ 中央主流程是纵向&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;357&quot; data-end=&quot;371&quot;&gt;&#xa;&lt;p data-start=&quot;359&quot; data-end=&quot;371&quot;&gt;❗ 左右分支同时存在&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;372&quot; data-end=&quot;384&quot;&gt;&#xa;&lt;p data-start=&quot;374&quot; data-end=&quot;384&quot;&gt;❗ 底部统一汇总&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;385&quot; data-end=&quot;401&quot;&gt;&#xa;&lt;p data-start=&quot;387&quot; data-end=&quot;401&quot;&gt;❗ 整体形成“环形闭环”&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;402&quot; data-end=&quot;421&quot;&gt;&#xa;&lt;p data-start=&quot;404&quot; data-end=&quot;421&quot;&gt;❗ 满足参数设置模块的真实逻辑&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;422&quot; data-end=&quot;441&quot;&gt;&#xa;&lt;p data-start=&quot;424&quot; data-end=&quot;441&quot;&gt;❗ 节点数量适中，正式文档风格&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="50" width="400" height="620" as="geometry" />
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1646" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="407" y="690" width="56" height="34" as="geometry" />
         </mxCell>
@@ -104,11 +101,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1665" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=1.01;entryY=0.7;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1654" target="70QY7zp4Tou9mdf60gn0-1646">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1665" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=1.01;entryY=0.7;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1654" target="70QY7zp4Tou9mdf60gn0-1646">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="653" y="1180" />
-              <mxPoint x="653" y="761" />
+              <mxPoint x="660" y="707" />
             </Array>
           </mxGeometry>
         </mxCell>
