@@ -4,49 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1187" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="40" width="55" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1188" value="接收数据集及分层抽样参数&#xa;（分层字段、各子集比例等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="21" y="128" width="259" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1189" value="分析原始数据分布&#xa;按指定字段进行分层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51" y="253" width="198" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1190" value="在每一层内按比例&#xa;抽取训练集 / 验证集 / 测试集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="378" width="260" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1191" value="合并各层子集&#xa;生成最终训练集、验证集、测试集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="525" width="260" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1192" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="673" width="55" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1193" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1187" target="70QY7zp4Tou9mdf60gn0-1188">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1194" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1188" target="70QY7zp4Tou9mdf60gn0-1189">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1189" target="70QY7zp4Tou9mdf60gn0-1190">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1190" target="70QY7zp4Tou9mdf60gn0-1191">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1197" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1191" target="70QY7zp4Tou9mdf60gn0-1192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
