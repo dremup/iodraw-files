@@ -31,6 +31,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1860" value="输出删除结果数据&#xa;OUT_CustomTemplateDelete" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="806" y="920" width="257" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1874" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1861" target="70QY7zp4Tou9mdf60gn0-1852">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1861" value="返回结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="972" y="1054" width="89" height="34" as="geometry" />
         </mxCell>
@@ -105,14 +108,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="935" y="1029" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1873" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=-0.01;entryX=1.01;entryY=0.56;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1861" target="70QY7zp4Tou9mdf60gn0-1852">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1098" y="1029" />
-              <mxPoint x="1098" y="459" />
             </Array>
           </mxGeometry>
         </mxCell>
