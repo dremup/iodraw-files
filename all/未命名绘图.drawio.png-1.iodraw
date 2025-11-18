@@ -56,7 +56,7 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2070" value="整合多来源任务单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="494" y="919" width="207" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2071" value="任务计划是否合理可执行?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2071" value="任务计划是否合理可执行?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="480" y="1018" width="234" height="234" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2095" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2072" target="70QY7zp4Tou9mdf60gn0-2063">
