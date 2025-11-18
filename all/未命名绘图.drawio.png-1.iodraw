@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="70QY7zp4Tou9mdf60gn0-2134" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="298" y="420" width="56" height="34" as="geometry" />
+          <mxGeometry x="298" y="420" width="82" height="34" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2135" value="接收解析后的问题&#xa;IN_IntelligentReply" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="228" y="504" width="196" height="67" as="geometry" />
