@@ -63,6 +63,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1583" value="视频格式与水印前提条件校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="689" width="256" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
