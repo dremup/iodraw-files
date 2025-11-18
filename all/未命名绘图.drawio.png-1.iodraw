@@ -34,6 +34,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2011" value="结构化数据抽取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="430" width="174" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2035" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2012" target="70QY7zp4Tou9mdf60gn0-2013">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2012" value="军事术语识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="139" y="430" width="158" height="49" as="geometry" />
         </mxCell>
