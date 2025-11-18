@@ -4,57 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1147" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="114" y="400" width="55" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1148" value="接收数据集ID与删除指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="488" width="226" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1149" value="检查数据集关联信息&#xa;（样本/标签/模型等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35" y="590" width="213" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1150" value="依次清除关联数据&#xa;（样本→标签→模型关联）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="715" width="243" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1151" value="记录清除日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="66" y="840" width="152" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1152" value="输出关联清除结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="943" width="182" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1153" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="114" y="1045" width="55" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1147" target="70QY7zp4Tou9mdf60gn0-1148">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1148" target="70QY7zp4Tou9mdf60gn0-1149">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1156" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1149" target="70QY7zp4Tou9mdf60gn0-1150">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1150" target="70QY7zp4Tou9mdf60gn0-1151">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1158" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1151" target="70QY7zp4Tou9mdf60gn0-1152">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1152" target="70QY7zp4Tou9mdf60gn0-1153">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
