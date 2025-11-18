@@ -81,14 +81,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1869" value="异常" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1857" target="70QY7zp4Tou9mdf60gn0-1859">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1869" value="异常" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1857" target="70QY7zp4Tou9mdf60gn0-1859">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="546" y="883" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1871" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1857" target="70QY7zp4Tou9mdf60gn0-1860">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1871" value="通过" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1857" target="70QY7zp4Tou9mdf60gn0-1860">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="935" y="883" />
