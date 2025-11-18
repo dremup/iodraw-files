@@ -18,11 +18,17 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1933" value="加载自定义优化规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="43" y="348" width="207" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1948" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1934" target="70QY7zp4Tou9mdf60gn0-1935">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1934" value="执行优化处理算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="51" y="447" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1935" value="优化结果是否有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="54" y="569" width="185" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1949" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1936" target="70QY7zp4Tou9mdf60gn0-1937">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1936" value="生成最终优化提示词&#xa;OUT_CustomOptimizeStrategy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="805" width="252" height="84" as="geometry" />
@@ -58,13 +64,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1943" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1935" target="70QY7zp4Tou9mdf60gn0-1936">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-1944" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1936" target="70QY7zp4Tou9mdf60gn0-1937">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="146" y="914" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
