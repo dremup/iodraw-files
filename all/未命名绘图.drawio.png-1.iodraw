@@ -31,6 +31,14 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-1774" value="输出优化后的提示词&#xa;OUT_GrammarPromptOptimize" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="402" y="869" width="248" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-1788" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-1775" target="70QY7zp4Tou9mdf60gn0-1766">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1046" />
+              <mxPoint x="760" y="409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-1775" value="返回结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="561" y="1029" width="89" height="34" as="geometry" />
         </mxCell>
