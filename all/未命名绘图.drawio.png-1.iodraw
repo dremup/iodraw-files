@@ -34,8 +34,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3007" value="写入成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="423" y="1326" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3025" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3008" target="70QY7zp4Tou9mdf60gn0-3006">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3008" value="记录失败日志并重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="153" y="1528" width="207" height="49" as="geometry" />
+          <mxGeometry x="156" y="1537" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3009" value="输出已存储数据&#xa;OUT_DataStorage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="1519" width="186" height="67" as="geometry" />
@@ -83,14 +86,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="359" y="1483" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3020" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.14;entryY=1;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3008" target="70QY7zp4Tou9mdf60gn0-3006">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="241" y="1483" />
-              <mxPoint x="241" y="1301" />
             </Array>
           </mxGeometry>
         </mxCell>
