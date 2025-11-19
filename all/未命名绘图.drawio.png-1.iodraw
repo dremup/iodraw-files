@@ -4,62 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2703" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="206" y="20" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2704" value="接收原始数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="155" y="104" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2719" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2705" target="70QY7zp4Tou9mdf60gn0-2707">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2720" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2705" target="70QY7zp4Tou9mdf60gn0-2706">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2705" value="格式预检&#xa;字段完整性 / 基础校验" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="121" y="203" width="225" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2722" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2706" target="70QY7zp4Tou9mdf60gn0-2708">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2706" value="敏感信息识别&#xa;关键词/规则匹配" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="183" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2721" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2707" target="70QY7zp4Tou9mdf60gn0-2708">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2707" value="数据格式合法性检测&#xa;类型/结构验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="253" y="320" width="207" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2708" value="数据清洗与脱敏处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="130" y="436" width="207" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2709" value="合规数据生成" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="155" y="535" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2710" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="206" y="634" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2711" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2703" target="70QY7zp4Tou9mdf60gn0-2704">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2712" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2704" target="70QY7zp4Tou9mdf60gn0-2705">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2717" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2708" target="70QY7zp4Tou9mdf60gn0-2709">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2718" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0.01;rounded=0;fontSize=19;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2709" target="70QY7zp4Tou9mdf60gn0-2710">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
