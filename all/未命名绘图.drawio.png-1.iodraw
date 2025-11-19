@@ -13,11 +13,17 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2719" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2705" target="70QY7zp4Tou9mdf60gn0-2707">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2720" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2705" target="70QY7zp4Tou9mdf60gn0-2706">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2705" value="格式预检&#xa;字段完整性 / 基础校验" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="121" y="203" width="225" height="67" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2706" value="敏感信息识别&#xa;关键词/规则匹配" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="183" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2721" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2707" target="70QY7zp4Tou9mdf60gn0-2708">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2707" value="数据格式合法性检测&#xa;类型/结构验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="253" y="320" width="207" height="67" as="geometry" />
@@ -45,13 +51,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="111" y="411" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2716" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.79;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2707" target="70QY7zp4Tou9mdf60gn0-2708">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="356" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
