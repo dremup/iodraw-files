@@ -21,6 +21,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2754" value="数据源发现&#xa;（结构探测 / 格式解析 / 元数据识别）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="326" y="256" width="238" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2769" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2755" target="70QY7zp4Tou9mdf60gn0-2756">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2755" value="预处理流程&#xa;（格式标准化 / 清洗 / 字段校准）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="614" y="256" width="222" height="84" as="geometry" />
         </mxCell>
