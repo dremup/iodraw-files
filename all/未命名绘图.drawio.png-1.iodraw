@@ -10,6 +10,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3072" value="读取时间间隔配置&#xa;IN_TimedTask" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="264" width="191" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3073">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.5" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3073" value="等待下一个触发时间点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="128" y="381" width="223" height="49" as="geometry" />
         </mxCell>
@@ -84,7 +89,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3088" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3077" target="70QY7zp4Tou9mdf60gn0-3078">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3088" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3077" target="70QY7zp4Tou9mdf60gn0-3078">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="123" y="1148" />
