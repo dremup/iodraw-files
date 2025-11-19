@@ -27,7 +27,14 @@
           <mxGeometry x="47" y="1220" width="185" height="185" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2903" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2883" target="70QY7zp4Tou9mdf60gn0-2880">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1511" />
+              <mxPoint x="340" y="1275" />
+              <mxPoint x="353" y="1275" />
+              <mxPoint x="353" y="1021" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2883" value="返回配置错误信息&#xa;提示检查时间或条件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="114" y="1478" width="207" height="67" as="geometry" />
