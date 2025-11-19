@@ -4,65 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2688" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="20" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2689" value="监控数据源变化&#xa;数据库 / 文件系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="104" width="192" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2690" value="捕获变化事件&#xa;新增 / 修改 / 删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="41" y="221" width="194" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2691" value="CDC解析与文件监控处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="337" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2692" value="解析变更记录&#xa;结构化数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="436" width="158" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2693" value="增量数据处理&#xa;数据清洗 / 格式化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="553" width="192" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2694" value="增量同步与引接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51" y="669" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2695" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="768" width="56" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2696" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2688" target="70QY7zp4Tou9mdf60gn0-2689">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2697" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2689" target="70QY7zp4Tou9mdf60gn0-2690">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2698" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2690" target="70QY7zp4Tou9mdf60gn0-2691">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2699" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2691" target="70QY7zp4Tou9mdf60gn0-2692">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2700" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2692" target="70QY7zp4Tou9mdf60gn0-2693">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2701" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2693" target="70QY7zp4Tou9mdf60gn0-2694">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2702" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2694" target="70QY7zp4Tou9mdf60gn0-2695">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
