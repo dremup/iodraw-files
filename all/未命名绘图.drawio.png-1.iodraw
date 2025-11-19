@@ -127,8 +127,8 @@
             <mxPoint x="319" y="1808" as="sourcePoint" />
             <mxPoint x="277" y="1915" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="265" y="1808" />
-              <mxPoint x="265" y="1890" />
+              <mxPoint x="280" y="1808" />
+              <mxPoint x="280" y="1890" />
               <mxPoint x="277" y="1890" />
             </Array>
           </mxGeometry>
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2569" value="文件数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="211" y="1915" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2621" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2570" target="70QY7zp4Tou9mdf60gn0-2571">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2570" value="关系型数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="402" y="1915" width="158" height="49" as="geometry" />
@@ -194,13 +197,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="282" y="1989" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2600" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2570" target="70QY7zp4Tou9mdf60gn0-2571">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="481" y="1989" />
             </Array>
           </mxGeometry>
         </mxCell>
