@@ -10,8 +10,17 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3300" value="读取配比配置文件&#xa;数据来源/类型/比例/处理方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="122" y="104" width="248" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3301" target="70QY7zp4Tou9mdf60gn0-3302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3301" target="70QY7zp4Tou9mdf60gn0-3303">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3301" value="解析数据配比策略&#xa;静态参数 + 动态调整规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126" y="238" width="241" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3302" target="70QY7zp4Tou9mdf60gn0-3304">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3302" value="加载多来源数据&#xa;图像/文本/音频/视频等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="261" y="355" width="232" height="67" as="geometry" />
@@ -47,24 +56,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3313" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3301" target="70QY7zp4Tou9mdf60gn0-3303">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="116" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3314" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.81;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3302" target="70QY7zp4Tou9mdf60gn0-3304">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="377" y="446" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3315" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3303" target="70QY7zp4Tou9mdf60gn0-3304">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="116" y="446" />
+              <mxPoint x="140" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
