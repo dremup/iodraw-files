@@ -51,6 +51,15 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3261" value="格式标准化&#xa;JPEG/PNG 转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="364" y="843" width="172" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3262">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="900" />
+              <mxPoint x="610" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3262" value="质量与格式规范达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="426" y="960" width="202" height="202" as="geometry" />
         </mxCell>
