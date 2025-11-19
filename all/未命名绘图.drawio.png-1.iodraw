@@ -10,6 +10,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3138" target="70QY7zp4Tou9mdf60gn0-3140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3138" target="70QY7zp4Tou9mdf60gn0-3139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3138" value="接收待清洗数据&#xa;（结构化 / 非结构化文本）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="104" width="258" height="67" as="geometry" />
         </mxCell>
@@ -91,13 +94,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="123" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3146" target="70QY7zp4Tou9mdf60gn0-3147">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="406" y="627" />
             </Array>
           </mxGeometry>
         </mxCell>
