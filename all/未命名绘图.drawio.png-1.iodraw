@@ -61,6 +61,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3148" target="70QY7zp4Tou9mdf60gn0-3149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3176" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-3175">
+          <mxGeometry x="0.0062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3148" value="是否存在冲突或矛盾?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="164" y="751" width="202" height="202" as="geometry" />
         </mxCell>
@@ -111,13 +119,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3147" target="70QY7zp4Tou9mdf60gn0-3148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3149" target="70QY7zp4Tou9mdf60gn0-3150">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="178" y="1117" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3167" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3150" target="70QY7zp4Tou9mdf60gn0-3151">
