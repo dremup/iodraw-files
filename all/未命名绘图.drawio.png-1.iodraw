@@ -35,6 +35,15 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2966" value="非结构型数据转换&#xa;(文本 / 媒体 / 二进制)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="431" y="940" width="222" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2999" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2967" target="70QY7zp4Tou9mdf60gn0-2968">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1144" />
+              <mxPoint x="130" y="1144" />
+              <mxPoint x="130" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2967" value="字段映射与数据标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1065" width="223" height="49" as="geometry" />
         </mxCell>
@@ -108,13 +117,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2975" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2963" target="70QY7zp4Tou9mdf60gn0-2964">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2979" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2967" target="70QY7zp4Tou9mdf60gn0-2968">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="132" y="1148" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2986" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2971" target="70QY7zp4Tou9mdf60gn0-2972">
