@@ -68,6 +68,14 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3218" target="70QY7zp4Tou9mdf60gn0-3219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3248" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-3247">
+          <mxGeometry x="-0.45" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3218" value="转换结果完整准确？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="1288" width="196" height="196" as="geometry" />
         </mxCell>
@@ -137,13 +145,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3236" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3217" target="70QY7zp4Tou9mdf60gn0-3218">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3237" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.64;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3218" target="70QY7zp4Tou9mdf60gn0-3219">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="221" y="1520" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3238" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.01;entryX=0;entryY=0.97;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3219" target="70QY7zp4Tou9mdf60gn0-3204">
