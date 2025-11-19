@@ -18,6 +18,9 @@
             <mxPoint x="370" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2926" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2910" target="70QY7zp4Tou9mdf60gn0-2911">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2910" value="是否已存在相同指纹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="135" y="1110" width="202" height="202" as="geometry" />
         </mxCell>
@@ -60,13 +63,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="1557" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2923" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2913" target="70QY7zp4Tou9mdf60gn0-2914">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="356" y="1557" />
             </Array>
           </mxGeometry>
         </mxCell>
