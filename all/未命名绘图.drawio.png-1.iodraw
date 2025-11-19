@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="70QY7zp4Tou9mdf60gn0-2907" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="207" y="810" width="56" height="34" as="geometry" />
+          <mxGeometry x="180" y="810" width="110" height="34" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2908" value="接收清洗后的数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="140" y="894" width="191" height="49" as="geometry" />
@@ -43,7 +43,7 @@
           <mxGeometry x="140" y="1582" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2915" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="207" y="1681" width="56" height="34" as="geometry" />
+          <mxGeometry x="207" y="1681" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2916" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2907" target="70QY7zp4Tou9mdf60gn0-2908">
           <mxGeometry relative="1" as="geometry">
