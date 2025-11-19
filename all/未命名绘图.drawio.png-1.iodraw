@@ -36,6 +36,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2667" value="测试连接与规则结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="291" y="1433" width="202" height="202" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2687" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2668" target="70QY7zp4Tou9mdf60gn0-2663">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2668" value="显示错误信息&#xa;提示检查参数或规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1708" width="207" height="67" as="geometry" />
         </mxCell>
@@ -68,7 +75,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2679" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.68;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2667" target="70QY7zp4Tou9mdf60gn0-2668">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2679" value="失败" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.68;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2667" target="70QY7zp4Tou9mdf60gn0-2668">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="201" y="1671" />
