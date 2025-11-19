@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2901" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2879">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2879" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393" y="920" width="56" height="34" as="geometry" />
         </mxCell>
@@ -41,13 +46,6 @@
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2888" value="输出任务调度计划&#xa;OUT_TaskSchedule" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="465" y="1909" width="161" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2889" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2879" target="70QY7zp4Tou9mdf60gn0-2880">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="217" y="979" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2890" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2880" target="70QY7zp4Tou9mdf60gn0-2881">
           <mxGeometry relative="1" as="geometry">
