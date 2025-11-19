@@ -46,6 +46,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2935" value="是否存在重复数据?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="266" y="1146" width="185" height="185" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2960" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2936" target="70QY7zp4Tou9mdf60gn0-2937">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2936" value="标记重复记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="158" y="1413" width="158" height="49" as="geometry" />
         </mxCell>
@@ -62,6 +65,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2938" value="生成去重结果&#xa;OUT_DataDeduplication" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="366" y="1405" width="231" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2961" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2939">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2939" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="453" y="1538" width="56" height="34" as="geometry" />
         </mxCell>
@@ -74,13 +82,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="359" y="1121" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2947" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2936" target="70QY7zp4Tou9mdf60gn0-2937">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="237" y="1496" />
             </Array>
           </mxGeometry>
         </mxCell>
