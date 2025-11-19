@@ -19,6 +19,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2551" value="数据源接入方式" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="309" y="499" width="144" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2607" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2552" target="70QY7zp4Tou9mdf60gn0-2556">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="722" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2552" value="JDBC接入" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="598" width="129" height="49" as="geometry" />
         </mxCell>
