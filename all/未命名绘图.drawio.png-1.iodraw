@@ -42,7 +42,11 @@
           <mxGeometry x="158" y="1413" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2955" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2937" target="70QY7zp4Tou9mdf60gn0-2934">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1084" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2937" value="执行去重策略&#xa;主键比对/时间戳决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="65" y="1521" width="215" height="67" as="geometry" />
@@ -62,13 +66,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="359" y="1121" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2946" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2935" target="70QY7zp4Tou9mdf60gn0-2936">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="237" y="1368" />
             </Array>
           </mxGeometry>
         </mxCell>
