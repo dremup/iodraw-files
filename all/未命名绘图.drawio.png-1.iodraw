@@ -75,14 +75,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2680" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=-0.01;entryX=0.14;entryY=0.99;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2668" target="70QY7zp4Tou9mdf60gn0-2663">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="104" y="1671" />
-              <mxPoint x="104" y="1192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2681" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2667" target="70QY7zp4Tou9mdf60gn0-2669">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
