@@ -34,6 +34,16 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3478" value="合并多模态增强结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="196" y="817" width="207" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3498" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3479" target="70QY7zp4Tou9mdf60gn0-3471">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="1009" />
+              <mxPoint x="650" y="584" />
+              <mxPoint x="593" y="584" />
+              <mxPoint x="593" y="228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3479" value="增强结果质量合规?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="289" y="916" width="185" height="185" as="geometry" />
         </mxCell>
