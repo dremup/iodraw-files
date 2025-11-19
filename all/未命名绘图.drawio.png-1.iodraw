@@ -37,7 +37,12 @@
           <mxGeometry x="319" y="1338" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2872" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2842" target="70QY7zp4Tou9mdf60gn0-2843">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="1511" />
+              <mxPoint x="154" y="1511" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2842" value="数据汇聚节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="214" y="1437" width="158" height="49" as="geometry" />
@@ -77,13 +82,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="154" y="1628" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2859" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2844" target="70QY7zp4Tou9mdf60gn0-2845">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="433" y="1628" />
             </Array>
           </mxGeometry>
         </mxCell>
