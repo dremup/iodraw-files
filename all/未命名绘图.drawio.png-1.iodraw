@@ -37,6 +37,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3305" value="配比是否满足训练要求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="239" y="588" width="218" height="218" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3306">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3306" value="调整配比参数&#xa;动态修正权重/比例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24" y="879" width="199" height="67" as="geometry" />
         </mxCell>
@@ -57,21 +62,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3311" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3300" target="70QY7zp4Tou9mdf60gn0-3301">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3317" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3305" target="70QY7zp4Tou9mdf60gn0-3306">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="226" y="843" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3318" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.17;entryY=1;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3306" target="70QY7zp4Tou9mdf60gn0-3304">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="109" y="843" />
-              <mxPoint x="109" y="563" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3319" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3305" target="70QY7zp4Tou9mdf60gn0-3307">
