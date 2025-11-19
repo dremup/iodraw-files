@@ -24,6 +24,14 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3332" value="是否检测到新增或变更?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="188" y="261" width="218" height="218" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3333">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3333" target="70QY7zp4Tou9mdf60gn0-3334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3333" value="拉取增量数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="218" y="552" width="158" height="49" as="geometry" />
         </mxCell>
@@ -70,13 +78,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3349" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3333" target="70QY7zp4Tou9mdf60gn0-3334">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="148" y="626" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3350" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3334" target="70QY7zp4Tou9mdf60gn0-3335">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -101,13 +102,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="148" y="976" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3356" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.79;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3339" target="70QY7zp4Tou9mdf60gn0-3340">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="446" y="976" />
             </Array>
           </mxGeometry>
         </mxCell>
