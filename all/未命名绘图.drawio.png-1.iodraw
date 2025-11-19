@@ -7,6 +7,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3053" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="232" y="390" width="56" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3069" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3054" target="70QY7zp4Tou9mdf60gn0-3055">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3054" value="采集数据源实时状态&#xa;IN_IncrementalMonitor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="148" y="474" width="224" height="67" as="geometry" />
         </mxCell>
@@ -31,13 +34,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3061" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3053" target="70QY7zp4Tou9mdf60gn0-3054">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3062" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3054" target="70QY7zp4Tou9mdf60gn0-3055">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="376" y="566" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3063" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3055" target="70QY7zp4Tou9mdf60gn0-3056">
