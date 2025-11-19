@@ -101,20 +101,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2579" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2553" target="70QY7zp4Tou9mdf60gn0-2556">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="672" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2580" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.9;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2554" target="70QY7zp4Tou9mdf60gn0-2556">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="491" y="672" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2582" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2556" target="70QY7zp4Tou9mdf60gn0-2557">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -242,6 +228,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2605" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2551" target="70QY7zp4Tou9mdf60gn0-2553">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2608" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2553" target="70QY7zp4Tou9mdf60gn0-2556">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
