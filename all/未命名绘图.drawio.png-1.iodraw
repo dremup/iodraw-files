@@ -7,6 +7,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2550" value="开始" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="180" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2602" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2551" target="70QY7zp4Tou9mdf60gn0-2555">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2551" value="数据源接入方式" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="309" y="499" width="144" height="49" as="geometry" />
         </mxCell>
@@ -117,13 +120,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="672" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2581" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;fontSize=20;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2555" target="70QY7zp4Tou9mdf60gn0-2556">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="707" y="672" />
             </Array>
           </mxGeometry>
         </mxCell>
