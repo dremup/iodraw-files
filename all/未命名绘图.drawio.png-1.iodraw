@@ -50,6 +50,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3106" value="清洗结果有效？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="152" y="553" width="163" height="163" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3107" target="70QY7zp4Tou9mdf60gn0-3108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3107" value="质量验证：&#xa;字段完整性 / 精度检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="121" y="789" width="225" height="67" as="geometry" />
         </mxCell>
@@ -82,14 +85,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3120" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3106" target="70QY7zp4Tou9mdf60gn0-3107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3122" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0;entryX=0.73;entryY=0.99;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3108" target="70QY7zp4Tou9mdf60gn0-3104">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="408" y="881" />
-              <mxPoint x="408" y="394" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3123" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3108" target="70QY7zp4Tou9mdf60gn0-3109">
