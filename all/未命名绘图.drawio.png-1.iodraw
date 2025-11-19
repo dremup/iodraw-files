@@ -80,6 +80,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-2846" value="训练与微调&#xa;（全参/Adapter/分布式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="1769" width="248" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-2877" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2847" target="70QY7zp4Tou9mdf60gn0-2848">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-2847" value="优化与增强&#xa;（蒸馏/量化/剪枝）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329" y="1769" width="207" height="67" as="geometry" />
         </mxCell>
@@ -103,13 +106,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="155" y="1861" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-2863" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-2847" target="70QY7zp4Tou9mdf60gn0-2848">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="432" y="1861" />
             </Array>
           </mxGeometry>
         </mxCell>
