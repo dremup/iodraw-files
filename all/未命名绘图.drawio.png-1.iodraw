@@ -55,6 +55,16 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3540" value="执行模板结构合法性校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="305" y="1070" width="240" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3571" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3541">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3572" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-3571">
+          <mxGeometry x="0.0139" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3541" value="校验是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="348" y="1169" width="153" height="153" as="geometry" />
         </mxCell>
@@ -103,7 +113,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3558" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3541" target="70QY7zp4Tou9mdf60gn0-3542">
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3558" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3541" target="70QY7zp4Tou9mdf60gn0-3542">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="221" y="1358" />
