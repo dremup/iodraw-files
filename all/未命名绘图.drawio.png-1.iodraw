@@ -28,6 +28,15 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3078" value="记录失败状态并告警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1185" width="207" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3093" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3079" target="70QY7zp4Tou9mdf60gn0-3071">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="749" />
+              <mxPoint x="420" y="749" />
+              <mxPoint x="420" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3079" value="输出执行状态&#xa;OUT_TimedTask" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="285" y="1284" width="141" height="52" as="geometry" />
         </mxCell>
@@ -86,14 +95,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="123" y="1259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3090" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=0;entryX=1;entryY=0.7;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3079" target="70QY7zp4Tou9mdf60gn0-3071">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="486" y="1259" />
-              <mxPoint x="486" y="239" />
             </Array>
           </mxGeometry>
         </mxCell>
