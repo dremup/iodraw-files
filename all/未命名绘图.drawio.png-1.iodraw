@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="70QY7zp4Tou9mdf60gn0-3251" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="426" y="270" width="56" height="34" as="geometry" />
+          <mxGeometry x="380" y="270" width="102" height="34" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3252" value="接收实时输入数据流&#xa;文本/图像多模态数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265" y="354" width="215" height="67" as="geometry" />
@@ -53,7 +53,12 @@
           <mxGeometry x="269" y="1567" width="207" height="67" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3267" target="70QY7zp4Tou9mdf60gn0-3251">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1710" />
+              <mxPoint x="670" y="287" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3267" value="输出实时可用数据流&#xa;用于训练/推理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="366" y="1684" width="175" height="52" as="geometry" />
