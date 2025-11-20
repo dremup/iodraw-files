@@ -16,8 +16,19 @@
         <mxCell id="hehk97RusJ2z01O0oylk-182" value="读取硬件资源清单&#xa;GPU/CPU/内存/集群节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="221" width="242" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-183" target="hehk97RusJ2z01O0oylk-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-183" value="硬件资源是否满足要求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="276" y="337" width="218" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-184" target="hehk97RusJ2z01O0oylk-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="458" />
+              <mxPoint x="131" y="254" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-184" value="资源不足提示&#xa;调整训练策略或分配资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="628" width="240" height="67" as="geometry" />
@@ -57,13 +68,6 @@
         <mxCell id="hehk97RusJ2z01O0oylk-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-181" target="hehk97RusJ2z01O0oylk-182">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-197" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.72;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-183" target="hehk97RusJ2z01O0oylk-184">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="252" y="592" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-199" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-183" target="hehk97RusJ2z01O0oylk-185">
