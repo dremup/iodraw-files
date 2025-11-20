@@ -53,6 +53,11 @@
             <mxPoint x="570" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3681" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3648">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3648" value="生成任务分配清单" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="330" y="1162" width="191" height="49" as="geometry" />
         </mxCell>
