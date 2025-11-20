@@ -13,11 +13,20 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3691" value="任务分割&#xa;按数据量/模态拆分子任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="221" y="203" width="248" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3723" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3692">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3692" value="为参与人员分配子任务&#xa;基于权限与角色" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="234" y="320" width="223" height="67" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3722" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3693" target="70QY7zp4Tou9mdf60gn0-3696">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3693" value="标注员A执行标注" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="436" width="184" height="49" as="geometry" />
@@ -69,13 +78,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3705" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3691" target="70QY7zp4Tou9mdf60gn0-3692">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3706" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3692" target="70QY7zp4Tou9mdf60gn0-3693">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="112" y="411" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3707" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3692" target="70QY7zp4Tou9mdf60gn0-3694">
