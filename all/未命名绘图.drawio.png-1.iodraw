@@ -42,6 +42,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3645" value="任务创建是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="313" y="769" width="185" height="185" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3682" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3646" target="70QY7zp4Tou9mdf60gn0-3643">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3646" value="返回错误信息&#xa;检查任务参数/模板配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="1036" width="232" height="67" as="geometry" />
         </mxCell>
@@ -100,14 +103,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3661" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.01;entryY=1;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3646" target="70QY7zp4Tou9mdf60gn0-3643">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="121" y="991" />
-              <mxPoint x="121" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3663" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3647" target="70QY7zp4Tou9mdf60gn0-3648">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -124,14 +119,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="405" y="1683" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3670" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=0.01;entryX=0.07;entryY=1;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3653" target="70QY7zp4Tou9mdf60gn0-3651">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="283" y="1683" />
-              <mxPoint x="283" y="1469" />
             </Array>
           </mxGeometry>
         </mxCell>
