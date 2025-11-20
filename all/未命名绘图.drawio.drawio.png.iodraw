@@ -21,6 +21,9 @@
         <mxCell id="hehk97RusJ2z01O0oylk-222" value="图像预处理&#xa;去噪/增强/分辨率调整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="221" width="224" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-223" target="hehk97RusJ2z01O0oylk-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-223" value="主干①：基础目标检测&#xa;人物/装备/车辆识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="337" width="223" height="67" as="geometry" />
         </mxCell>
@@ -35,6 +38,9 @@
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-226" value="识别结果校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="570" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-227" target="hehk97RusJ2z01O0oylk-231">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-227" value="输出目标识别信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="692" width="191" height="49" as="geometry" />
@@ -65,13 +71,6 @@
         <mxCell id="hehk97RusJ2z01O0oylk-235" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-221" target="hehk97RusJ2z01O0oylk-222">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-239" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.27;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-225" target="hehk97RusJ2z01O0oylk-226">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="112" y="545" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-240" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.01;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-226" target="hehk97RusJ2z01O0oylk-223">
@@ -107,13 +106,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-246" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.03;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-227" target="hehk97RusJ2z01O0oylk-231">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="185" y="766" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-247" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.95;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-230" target="hehk97RusJ2z01O0oylk-231">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -130,6 +122,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-225" target="hehk97RusJ2z01O0oylk-226">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
