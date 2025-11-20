@@ -21,6 +21,11 @@
         <mxCell id="hehk97RusJ2z01O0oylk-345" value="提取模板结构框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="453" y="337" width="191" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-346">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-346" value="解析用户指令与关键信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="164" y="337" width="240" height="49" as="geometry" />
         </mxCell>
@@ -68,24 +73,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-355" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-344" target="hehk97RusJ2z01O0oylk-345">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="549" y="312" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-356" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-344" target="hehk97RusJ2z01O0oylk-346">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="284" y="312" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-358" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-346" target="hehk97RusJ2z01O0oylk-347">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="284" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,6 +94,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-345" target="hehk97RusJ2z01O0oylk-347">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
