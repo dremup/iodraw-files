@@ -10,6 +10,11 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3642" value="接收标注任务创建请求&#xa;（来自模板 &amp;amp; 用户配置）" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="169" y="384" width="223" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3673" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3643">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3643" value="解析任务参数&#xa;任务名称 / 模板ID / 数据范围" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="179" y="518" width="203" height="84" as="geometry" />
         </mxCell>
@@ -76,13 +81,6 @@
             <Array as="points">
               <mxPoint x="121" y="991" />
               <mxPoint x="121" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3662" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3645" target="70QY7zp4Tou9mdf60gn0-3647">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="426" y="991" />
             </Array>
           </mxGeometry>
         </mxCell>
