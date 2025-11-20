@@ -23,6 +23,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4290" target="70QY7zp4Tou9mdf60gn0-4291">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="399" />
+              <mxPoint x="120" y="756" />
+              <mxPoint x="115" y="756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4290" value="存在版本变更?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="171" y="322" width="153" height="153" as="geometry" />
         </mxCell>
