@@ -22,6 +22,11 @@
         <mxCell id="hehk97RusJ2z01O0oylk-380" value="构建战场态势模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="553" width="191" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-399" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-381">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-381" value="执行战术推演与博弈分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="66" y="652" width="240" height="49" as="geometry" />
         </mxCell>
@@ -82,13 +87,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-393" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-382" target="hehk97RusJ2z01O0oylk-383">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="115" y="825" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-395" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-383" target="hehk97RusJ2z01O0oylk-384">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -98,6 +96,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.151;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-382" target="hehk97RusJ2z01O0oylk-383">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
