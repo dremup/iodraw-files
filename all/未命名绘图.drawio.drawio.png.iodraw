@@ -38,6 +38,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-398" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-397">
+          <mxGeometry x="-0.4302" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-383" value="方案可行性是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="85" y="850" width="202" height="202" as="geometry" />
         </mxCell>
@@ -75,13 +80,6 @@
         <mxCell id="hehk97RusJ2z01O0oylk-391" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-380" target="hehk97RusJ2z01O0oylk-381">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-392" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-381" target="hehk97RusJ2z01O0oylk-382">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="115" y="726" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-393" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-382" target="hehk97RusJ2z01O0oylk-383">
