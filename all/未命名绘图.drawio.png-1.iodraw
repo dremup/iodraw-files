@@ -67,13 +67,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-4239" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4227" target="70QY7zp4Tou9mdf60gn0-4229">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="643" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4240" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4229" target="70QY7zp4Tou9mdf60gn0-4230">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -88,6 +81,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4227" target="70QY7zp4Tou9mdf60gn0-4229">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
