@@ -91,6 +91,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3908" value="标注一致性通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="386" y="878" width="180" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3942" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3909" target="70QY7zp4Tou9mdf60gn0-3903">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3909" value="返回修订提示&#xa;规则校验 / 冲突检查" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="1130" width="209" height="67" as="geometry" />
         </mxCell>
@@ -147,14 +154,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="194" y="1094" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3928" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=0;entryX=0;entryY=0.69;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3909" target="70QY7zp4Tou9mdf60gn0-3903">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="109" y="1094" />
-              <mxPoint x="109" y="625" />
             </Array>
           </mxGeometry>
         </mxCell>
