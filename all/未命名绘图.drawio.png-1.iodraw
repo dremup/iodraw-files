@@ -56,6 +56,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3835" value="智能插值：跨帧轨迹补全" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="29" y="617" width="240" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3862" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3836" target="70QY7zp4Tou9mdf60gn0-3837">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3836" value="时序校正：调整连续帧误差" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="21" y="716" width="256" height="49" as="geometry" />
         </mxCell>
@@ -99,13 +102,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3851" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3835" target="70QY7zp4Tou9mdf60gn0-3836">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3852" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.02;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3836" target="70QY7zp4Tou9mdf60gn0-3837">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="149" y="790" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3853" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0.71;entryY=1;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3837" target="70QY7zp4Tou9mdf60gn0-3833">
