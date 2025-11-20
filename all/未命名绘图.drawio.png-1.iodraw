@@ -21,7 +21,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4165" target="70QY7zp4Tou9mdf60gn0-4166">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="229" />
+              <mxPoint x="70" y="303" />
+              <mxPoint x="64" y="303" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4181" value="通用分割" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-4180">
           <mxGeometry x="-0.4856" y="-5" relative="1" as="geometry">
