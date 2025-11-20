@@ -10,6 +10,9 @@
         <mxCell id="hehk97RusJ2z01O0oylk-181" value="加载训练任务需求&#xa;（模型类型 / 训练规模）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="152" y="104" width="241" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-182" target="hehk97RusJ2z01O0oylk-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-182" value="读取硬件资源清单&#xa;GPU/CPU/内存/集群节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="221" width="242" height="67" as="geometry" />
         </mxCell>
@@ -60,14 +63,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="252" y="592" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-198" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.15;entryY=0.99;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-184" target="hehk97RusJ2z01O0oylk-182">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="592" />
-              <mxPoint x="125" y="312" />
             </Array>
           </mxGeometry>
         </mxCell>
