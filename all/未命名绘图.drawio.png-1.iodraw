@@ -51,7 +51,13 @@
           <mxGeometry x="221" y="634" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3724" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3698" target="70QY7zp4Tou9mdf60gn0-3700">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="810" />
+              <mxPoint x="490" y="1101" />
+              <mxPoint x="393" y="1101" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3698" value="是否存在冲突?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="269" y="733" width="153" height="153" as="geometry" />
