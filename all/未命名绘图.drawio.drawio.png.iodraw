@@ -4,6 +4,87 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hehk97RusJ2z01O0oylk-468" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="140" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-469" value="获取历史数据&#xa;IN_EventLogicDisplay" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="224" width="211" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-470" value="获取当前信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="281" y="233" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-471" value="事件要素抽取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="164" y="341" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-472" value="构建事件因果关系链" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="440" width="207" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-473" value="融合历史模式与当前态势" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="539" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-474" value="生成事件逻辑关系图&#xa;OUT_EventLogicDisplay" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="129" y="638" width="227" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-475" value="进行趋势推演与未来态势预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="754" width="256" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-476" value="输出推理结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="871" width="121" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-477" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="955" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-478" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-468" target="hehk97RusJ2z01O0oylk-469">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-480" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.13;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-469" target="hehk97RusJ2z01O0oylk-471">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-481" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-470" target="hehk97RusJ2z01O0oylk-471">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-482" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-471" target="hehk97RusJ2z01O0oylk-472">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-483" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-472" target="hehk97RusJ2z01O0oylk-473">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-484" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-473" target="hehk97RusJ2z01O0oylk-474">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-485" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-474" target="hehk97RusJ2z01O0oylk-475">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-486" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-475" target="hehk97RusJ2z01O0oylk-476">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-487" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-476" target="hehk97RusJ2z01O0oylk-477">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
