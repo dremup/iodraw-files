@@ -4,6 +4,93 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3987" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="201" y="420" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3988" value="接收多模态原始数据&#xa;IN_ModelAnnotate" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="126" y="504" width="207" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3989" value="加载预置大模型接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="126" y="621" width="207" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3990" value="执行多模态智能标注推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="720" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3991" value="调用奖励模型进行质量评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="819" width="256" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3992" value="对候选标注结果排序与筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="941" width="256" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3993" value="多模态一致性校验（图像/文本/音频）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="1040" width="248" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3994" value="校验是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="153" y="1156" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3995" value="输出最终自动化标注结果&#xa;OUT_ModelAnnotate" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1382" width="240" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3996" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="201" y="1499" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3997" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3987" target="70QY7zp4Tou9mdf60gn0-3988">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3998" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3988" target="70QY7zp4Tou9mdf60gn0-3989">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3999" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3989" target="70QY7zp4Tou9mdf60gn0-3990">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4000" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3990" target="70QY7zp4Tou9mdf60gn0-3991">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4001" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3991" target="70QY7zp4Tou9mdf60gn0-3992">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4002" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3992" target="70QY7zp4Tou9mdf60gn0-3993">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4003" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3993" target="70QY7zp4Tou9mdf60gn0-3994">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4004" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0.69;entryY=0.99;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3994" target="70QY7zp4Tou9mdf60gn0-3989">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="1131" />
+              <mxPoint x="311" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4005" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3994" target="70QY7zp4Tou9mdf60gn0-3995">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4006" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3995" target="70QY7zp4Tou9mdf60gn0-3996">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
