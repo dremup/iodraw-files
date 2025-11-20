@@ -22,6 +22,21 @@
         <mxCell id="hehk97RusJ2z01O0oylk-292" value="执行军事意图理解模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="582" width="223" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-293" target="hehk97RusJ2z01O0oylk-290">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="774" />
+              <mxPoint x="320" y="546" />
+              <mxPoint x="317" y="546" />
+              <mxPoint x="317" y="386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-312" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-311">
+          <mxGeometry x="0.1207" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-293" value="意图识别是否准确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="112" y="681" width="185" height="185" as="geometry" />
         </mxCell>
