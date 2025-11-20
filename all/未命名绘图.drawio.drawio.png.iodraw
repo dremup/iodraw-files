@@ -45,6 +45,9 @@
         <mxCell id="hehk97RusJ2z01O0oylk-227" value="输出目标识别信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="692" width="191" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-228" target="hehk97RusJ2z01O0oylk-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-228" value="空间关系建模&#xa;位置/结构/形态特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="311" y="454" width="207" height="67" as="geometry" />
         </mxCell>
@@ -86,13 +89,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-243" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.34;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-228" target="hehk97RusJ2z01O0oylk-229">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-244" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-229" target="hehk97RusJ2z01O0oylk-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -106,13 +102,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-247" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.95;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-230" target="hehk97RusJ2z01O0oylk-231">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="494" y="766" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-248" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-231" target="hehk97RusJ2z01O0oylk-232">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -124,6 +113,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-225" target="hehk97RusJ2z01O0oylk-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-230" target="hehk97RusJ2z01O0oylk-231">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
