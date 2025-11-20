@@ -41,6 +41,14 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3955" value="融合模型输出与规则结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="840" width="240" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3983" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3956" target="70QY7zp4Tou9mdf60gn0-3957">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3984" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-3983">
+          <mxGeometry x="0.0366" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3956" value="预标注置信度是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="206" y="939" width="218" height="218" as="geometry" />
         </mxCell>
@@ -79,13 +87,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3970" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3956" target="70QY7zp4Tou9mdf60gn0-3957">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="196" y="1193" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3971" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3957" target="70QY7zp4Tou9mdf60gn0-3958">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -118,9 +119,7 @@
             <mxPoint x="423.99999999999955" y="1047" as="sourcePoint" />
             <mxPoint x="463.49199999999973" y="1451.005" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="1047.01" />
-              <mxPoint x="430" y="1303.01" />
-              <mxPoint x="464" y="1303.01" />
+              <mxPoint x="463" y="1047" />
             </Array>
           </mxGeometry>
         </mxCell>
