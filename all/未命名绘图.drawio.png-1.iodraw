@@ -16,6 +16,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3692" value="为参与人员分配子任务&#xa;基于权限与角色" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="234" y="320" width="223" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3722" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3693" target="70QY7zp4Tou9mdf60gn0-3696">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3693" value="标注员A执行标注" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="436" width="184" height="49" as="geometry" />
         </mxCell>
@@ -23,7 +26,11 @@
           <mxGeometry x="254" y="436" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3721" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3695" target="70QY7zp4Tou9mdf60gn0-3696">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3695" value="标注员C执行标注" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="487" y="436" width="184" height="49" as="geometry" />
@@ -74,13 +81,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3707" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3692" target="70QY7zp4Tou9mdf60gn0-3694">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3709" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3693" target="70QY7zp4Tou9mdf60gn0-3696">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="112" y="510" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3710" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3694" target="70QY7zp4Tou9mdf60gn0-3696">
