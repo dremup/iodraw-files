@@ -31,6 +31,11 @@
         <mxCell id="hehk97RusJ2z01O0oylk-5" value="对比现有数据集版本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="277" y="343" width="207" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-6" value="识别需更新的数据样本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="269" y="442" width="223" height="49" as="geometry" />
         </mxCell>
@@ -76,13 +81,6 @@
         <mxCell id="hehk97RusJ2z01O0oylk-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-7" target="hehk97RusJ2z01O0oylk-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.9;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-8" target="hehk97RusJ2z01O0oylk-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="462" y="754" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-21" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0;entryX=0.32;entryY=0.99;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-9" target="hehk97RusJ2z01O0oylk-6">
