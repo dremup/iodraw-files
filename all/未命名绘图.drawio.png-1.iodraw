@@ -54,6 +54,15 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3737" value="异常指标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="525" y="669" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3760" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3738" target="70QY7zp4Tou9mdf60gn0-3731">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="540" />
+              <mxPoint x="288" y="540" />
+              <mxPoint x="288" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3738" value="触发告警&#xa;(错误率/进度滞后)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="863" width="252" height="67" as="geometry" />
         </mxCell>
