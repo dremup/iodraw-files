@@ -41,11 +41,21 @@
         <mxCell id="hehk97RusJ2z01O0oylk-185" value="锁定训练资源配额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="637" width="191" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-186" target="hehk97RusJ2z01O0oylk-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-186" value="检测框架依赖版本&#xa;PyTorch/TensorFlow/DeepSpeed 等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="277" y="745" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-187" value="依赖是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="443" y="879" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-188" target="hehk97RusJ2z01O0oylk-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="257" y="787" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-188" value="自动安装/更新依赖&#xa;补齐训练所需环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171" y="1105" width="199" height="67" as="geometry" />
@@ -78,21 +88,6 @@
         <mxCell id="hehk97RusJ2z01O0oylk-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-185" target="hehk97RusJ2z01O0oylk-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-202" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-187" target="hehk97RusJ2z01O0oylk-188">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="385" y="1068" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=0;entryX=0.13;entryY=1;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-188" target="hehk97RusJ2z01O0oylk-186">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="255" y="1068" />
-              <mxPoint x="255" y="854" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-204" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-187" target="hehk97RusJ2z01O0oylk-189">
