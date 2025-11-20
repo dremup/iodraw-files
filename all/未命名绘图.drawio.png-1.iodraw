@@ -101,13 +101,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3921" value="文本标注" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3903" target="70QY7zp4Tou9mdf60gn0-3905">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="487" y="625" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3922" value="音频标注" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3903" target="70QY7zp4Tou9mdf60gn0-3906">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
