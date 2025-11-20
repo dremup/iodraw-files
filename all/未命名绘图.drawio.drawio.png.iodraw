@@ -51,6 +51,16 @@
         <mxCell id="hehk97RusJ2z01O0oylk-43" value="级联清理关联资源&#xa;版本记录/检索索引/缓存文件" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="442" y="960" width="256" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-65" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-64">
+          <mxGeometry x="0.1939" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-44" value="系统数据一致性正常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="469" y="1094" width="202" height="202" as="geometry" />
         </mxCell>
