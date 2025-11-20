@@ -13,6 +13,9 @@
         <mxCell id="hehk97RusJ2z01O0oylk-264" value="视频帧抽取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="148" y="221" width="142" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-265" target="hehk97RusJ2z01O0oylk-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-265" value="帧级预处理&#xa;（降噪 / 对齐 / 归一化）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="97" y="320" width="243" height="67" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-269" value="结构化数据生成&#xa;（对象/时间线/关系）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="29" y="809" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-270" target="hehk97RusJ2z01O0oylk-265">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-270" value="结果有效性校验?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="134" y="926" width="169" height="169" as="geometry" />
@@ -71,14 +77,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="141" y="901" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-281" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0.68;entryY=0.99;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-270" target="hehk97RusJ2z01O0oylk-265">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="296" y="901" />
-              <mxPoint x="296" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
