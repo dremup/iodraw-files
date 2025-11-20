@@ -88,13 +88,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-361" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.66;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-349" target="hehk97RusJ2z01O0oylk-350">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="221" y="934" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-363" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-349" target="hehk97RusJ2z01O0oylk-351">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
