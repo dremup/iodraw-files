@@ -76,14 +76,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-240" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.01;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-226" target="hehk97RusJ2z01O0oylk-223">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="258" y="545" />
-              <mxPoint x="258" y="429" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-241" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-226" target="hehk97RusJ2z01O0oylk-227">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -116,6 +108,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-230" target="hehk97RusJ2z01O0oylk-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.845;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-226" target="hehk97RusJ2z01O0oylk-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
