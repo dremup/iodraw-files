@@ -21,6 +21,16 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3644" value="创建标注任务记录&#xa;写入任务表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="652" width="191" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3674" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3645">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405.5" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3675" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-3674">
+          <mxGeometry x="0.0445" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3645" value="任务创建是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="313" y="769" width="185" height="185" as="geometry" />
         </mxCell>
@@ -67,13 +77,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3659" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3644" target="70QY7zp4Tou9mdf60gn0-3645">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3660" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.73;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3645" target="70QY7zp4Tou9mdf60gn0-3646">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="261" y="991" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3661" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.01;entryY=1;rounded=0;fontSize=18;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3646" target="70QY7zp4Tou9mdf60gn0-3643">
