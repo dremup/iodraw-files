@@ -37,6 +37,15 @@
         <mxCell id="hehk97RusJ2z01O0oylk-106" value="接收资源路径输入&#xa;（数据目录、预训练模型路径等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351" y="104" width="256" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-107" target="hehk97RusJ2z01O0oylk-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="312" />
+              <mxPoint x="375" y="312" />
+              <mxPoint x="375" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-107" value="路径可用性校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="305" y="238" width="174" height="49" as="geometry" />
         </mxCell>
