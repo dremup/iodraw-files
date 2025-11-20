@@ -31,8 +31,14 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-4017" value="奖励模型训练是否通过检验?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="925" width="262" height="262" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4038" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4018" target="70QY7zp4Tou9mdf60gn0-4019">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4018" value="生成可训练的奖励信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="99" y="1260" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4039" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4019" target="70QY7zp4Tou9mdf60gn0-4020">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4019" value="策略训练（PPO/DPO）&#xa;基于RM优化模型回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1359" width="224" height="67" as="geometry" />
@@ -77,20 +83,6 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-4030" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4017" target="70QY7zp4Tou9mdf60gn0-4018">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-4031" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4018" target="70QY7zp4Tou9mdf60gn0-4019">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="132" y="1334" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-4032" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4019" target="70QY7zp4Tou9mdf60gn0-4020">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="132" y="1451" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4033" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0;entryX=0.68;entryY=1;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4020" target="70QY7zp4Tou9mdf60gn0-4018">
