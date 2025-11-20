@@ -40,6 +40,15 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-4290" value="存在版本变更?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="171" y="322" width="153" height="153" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4291" target="70QY7zp4Tou9mdf60gn0-4292">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="1111" />
+              <mxPoint x="200" y="1111" />
+              <mxPoint x="200" y="1153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4291" value="保持当前版本状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1037" width="191" height="49" as="geometry" />
         </mxCell>
