@@ -32,10 +32,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="956" />
-              <mxPoint x="810" y="720" />
-              <mxPoint x="673" y="720" />
-              <mxPoint x="673" y="542" />
+              <mxPoint x="810" y="542" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4099" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="70QY7zp4Tou9mdf60gn0-4098">
+          <mxGeometry x="-0.0022" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4082" value="预处理结果是否合格?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -73,13 +76,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385" y="609" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-4090" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4077" target="70QY7zp4Tou9mdf60gn0-4080">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="666" y="609" />
             </Array>
           </mxGeometry>
         </mxCell>
