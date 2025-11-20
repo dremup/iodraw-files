@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hehk97RusJ2z01O0oylk-288" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-288" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="177" y="160" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-289" value="接收军事文书数据&#xa;IN_IntelligentDecision" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-289" value="接收军事文书数据&#xa;IN_IntelligentDecision" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="97" y="244" width="217" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-290" target="hehk97RusJ2z01O0oylk-291">
+        <mxCell id="hehk97RusJ2z01O0oylk-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-290" target="hehk97RusJ2z01O0oylk-291">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-290" value="文书内容解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-290" value="文书内容解析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="126" y="361" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-291" value="关键信息抽取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-291" value="关键信息抽取" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="53" y="460" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-292" value="执行军事意图理解模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-292" value="执行军事意图理解模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="582" width="223" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-293" target="hehk97RusJ2z01O0oylk-290">
+        <mxCell id="hehk97RusJ2z01O0oylk-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-293" target="hehk97RusJ2z01O0oylk-290">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="774" />
@@ -32,75 +32,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-312" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-311">
+        <mxCell id="hehk97RusJ2z01O0oylk-312" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-311">
           <mxGeometry x="0.1207" y="-3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-293" value="意图识别是否准确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-293" value="意图识别是否准确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="112" y="681" width="185" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-294" value="生成任务要素" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-294" value="生成任务要素" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="126" y="939" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-295" value="匹配知识库与历史任务案例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-295" value="匹配知识库与历史任务案例" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="77" y="1038" width="256" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-296" value="构建行动方案与步骤清单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-296" value="构建行动方案与步骤清单" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="85" y="1137" width="240" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-297" value="输出决策结果&#xa;OUT_IntelligentDecision" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-297" value="输出决策结果&#xa;OUT_IntelligentDecision" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="89" y="1236" width="232" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-298" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hehk97RusJ2z01O0oylk-298" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="177" y="1353" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-299" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-288" target="hehk97RusJ2z01O0oylk-289">
+        <mxCell id="hehk97RusJ2z01O0oylk-299" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-288" target="hehk97RusJ2z01O0oylk-289">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-300" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-289" target="hehk97RusJ2z01O0oylk-290">
+        <mxCell id="hehk97RusJ2z01O0oylk-300" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-289" target="hehk97RusJ2z01O0oylk-290">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-302" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-291" target="hehk97RusJ2z01O0oylk-292">
+        <mxCell id="hehk97RusJ2z01O0oylk-302" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-291" target="hehk97RusJ2z01O0oylk-292">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-303" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-292" target="hehk97RusJ2z01O0oylk-293">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="132" y="656" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-305" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-293" target="hehk97RusJ2z01O0oylk-294">
+        <mxCell id="hehk97RusJ2z01O0oylk-305" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-293" target="hehk97RusJ2z01O0oylk-294">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-306" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-294" target="hehk97RusJ2z01O0oylk-295">
+        <mxCell id="hehk97RusJ2z01O0oylk-306" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-294" target="hehk97RusJ2z01O0oylk-295">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-307" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-295" target="hehk97RusJ2z01O0oylk-296">
+        <mxCell id="hehk97RusJ2z01O0oylk-307" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-295" target="hehk97RusJ2z01O0oylk-296">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-308" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-296" target="hehk97RusJ2z01O0oylk-297">
+        <mxCell id="hehk97RusJ2z01O0oylk-308" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-296" target="hehk97RusJ2z01O0oylk-297">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-309" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-297" target="hehk97RusJ2z01O0oylk-298">
+        <mxCell id="hehk97RusJ2z01O0oylk-309" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-297" target="hehk97RusJ2z01O0oylk-298">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-292" target="hehk97RusJ2z01O0oylk-293">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
