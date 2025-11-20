@@ -40,6 +40,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-349" target="hehk97RusJ2z01O0oylk-351">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-370" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-369">
+          <mxGeometry x="0.0314" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-349" value="内容生成是否通过校验？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="302" y="669" width="229" height="229" as="geometry" />
         </mxCell>
@@ -71,13 +79,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="284" y="312" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-357" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-345" target="hehk97RusJ2z01O0oylk-347">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="549" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
