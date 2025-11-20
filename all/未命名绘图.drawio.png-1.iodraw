@@ -26,6 +26,11 @@
         <mxCell id="hehk97RusJ2z01O0oylk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-3" target="hehk97RusJ2z01O0oylk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-33" value="不合法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hehk97RusJ2z01O0oylk-32">
+          <mxGeometry x="0.3047" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-3" value="结构校验与完整性检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="236" y="221" width="223" height="49" as="geometry" />
         </mxCell>
