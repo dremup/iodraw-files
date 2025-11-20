@@ -42,6 +42,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-4375" value="编码与类型统一" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="355" width="174" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4376" target="70QY7zp4Tou9mdf60gn0-4377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4376" value="合并预置规则库&#xa;校验字段类型与结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="228" y="454" width="207" height="67" as="geometry" />
         </mxCell>
@@ -89,14 +92,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="307" y="876" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-4393" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=-0.01;entryX=0.06;entryY=0.99;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4379" target="70QY7zp4Tou9mdf60gn0-4376">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="171" y="876" />
-              <mxPoint x="171" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
