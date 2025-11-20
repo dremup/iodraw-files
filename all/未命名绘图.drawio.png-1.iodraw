@@ -10,6 +10,9 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-3603" value="选择标注模板&#xa;（预置 / 自定义）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="139" y="634" width="192" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-3629" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3604" target="70QY7zp4Tou9mdf60gn0-3605">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-3604" value="加载模板配置参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="751" width="191" height="49" as="geometry" />
         </mxCell>
@@ -57,14 +60,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="1072" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-3619" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.15;entryY=0.99;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-3606" target="70QY7zp4Tou9mdf60gn0-3604">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="1072" />
-              <mxPoint x="100" y="825" />
             </Array>
           </mxGeometry>
         </mxCell>
