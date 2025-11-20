@@ -10,6 +10,9 @@
         <mxCell id="hehk97RusJ2z01O0oylk-289" value="接收军事文书数据&#xa;IN_IntelligentDecision" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="97" y="244" width="217" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-290" target="hehk97RusJ2z01O0oylk-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-290" value="文书内容解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126" y="361" width="158" height="49" as="geometry" />
         </mxCell>
@@ -56,14 +59,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="132" y="656" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-304" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0;entryX=0.73;entryY=0.99;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-293" target="hehk97RusJ2z01O0oylk-290">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="278" y="656" />
-              <mxPoint x="278" y="435" />
             </Array>
           </mxGeometry>
         </mxCell>
