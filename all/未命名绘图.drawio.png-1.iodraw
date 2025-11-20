@@ -18,6 +18,9 @@
         <mxCell id="hehk97RusJ2z01O0oylk-3" value="结构校验与完整性检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="236" y="221" width="223" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-4" target="hehk97RusJ2z01O0oylk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-4" value="记录异常并返回提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="343" width="207" height="49" as="geometry" />
         </mxCell>
@@ -51,14 +54,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="219" y="306" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=-0.01;entryX=0.13;entryY=0.99;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-4" target="hehk97RusJ2z01O0oylk-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="306" />
-              <mxPoint x="100" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
