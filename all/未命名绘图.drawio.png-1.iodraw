@@ -22,6 +22,13 @@
         <mxCell id="70QY7zp4Tou9mdf60gn0-4134" value="图像预处理&#xa;尺寸调整/归一化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299" y="320" width="183" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4135" target="70QY7zp4Tou9mdf60gn0-4136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4135" value="视频帧提取与缓存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="328" width="191" height="49" as="geometry" />
         </mxCell>
@@ -36,6 +43,9 @@
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4139" value="标注结果有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="314" y="751" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="70QY7zp4Tou9mdf60gn0-4161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4140" target="70QY7zp4Tou9mdf60gn0-4134">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70QY7zp4Tou9mdf60gn0-4140" value="返回预处理阶段&#xa;调整参数/重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="985" width="174" height="67" as="geometry" />
@@ -75,14 +85,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="188" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70QY7zp4Tou9mdf60gn0-4153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=0.01;entryX=0;entryY=0.76;rounded=0;" edge="1" parent="1" source="70QY7zp4Tou9mdf60gn0-4140" target="70QY7zp4Tou9mdf60gn0-4134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="95" y="940" />
-              <mxPoint x="95" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
