@@ -51,6 +51,15 @@
         <mxCell id="hehk97RusJ2z01O0oylk-228" value="空间关系建模&#xa;位置/结构/形态特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="311" y="454" width="207" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="hehk97RusJ2z01O0oylk-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-229" target="hehk97RusJ2z01O0oylk-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="487" />
+              <mxPoint x="625" y="487" />
+              <mxPoint x="625" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-229" value="场景理解与风险要素识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="570" width="240" height="49" as="geometry" />
         </mxCell>
@@ -79,14 +88,6 @@
         <mxCell id="hehk97RusJ2z01O0oylk-241" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-226" target="hehk97RusJ2z01O0oylk-227">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hehk97RusJ2z01O0oylk-244" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-229" target="hehk97RusJ2z01O0oylk-224">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="572" y="545" />
-              <mxPoint x="572" y="429" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hehk97RusJ2z01O0oylk-245" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hehk97RusJ2z01O0oylk-229" target="hehk97RusJ2z01O0oylk-230">
